@@ -1,4 +1,6 @@
 # macos-wakatime
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fmacos-wakatime.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fmacos-wakatime?ref=badge_shield)
+
 
 Mac system tray app for automatic time tracking and metrics generated from your Xcode activity.
 
@@ -50,3 +52,7 @@ Made with :heart: by the WakaTime Team.
 [contributing]: CONTRIBUTING.md
 [authors]: AUTHORS
 [supported apps]: https://github.com/wakatime/macos-wakatime/blob/main/WakaTime/Watchers/MonitoredApp.swift#L3
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fmacos-wakatime.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fmacos-wakatime?ref=badge_large)
